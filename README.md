@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Salvatore Olivieri</h1>
-<h3>I'm a creative Frontend Web Developer based in Italy. I love to build things and understand how things work. I like art, philosophy and travel 🧘🏻‍♂️🌳🗿</h3>
 
 - 💬 Ask me about **VueJs and NuxtJs**
 
