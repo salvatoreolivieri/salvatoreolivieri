@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Backend engineering stuff
 - 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on Back
 - 💬 Ask me about FullStack App
 - 📫 How to reach me: salvatoreolivieriii@gmail.com
 - ⚡ Fun fact: I can distinguish the capital "o" from the zero
