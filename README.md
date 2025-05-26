@@ -1,4 +1,4 @@
-<h1>👨🏻‍💻 About Me:</h1>
+<h3>👨🏻‍💻 About Me:</h3>
 
 Software Engineer with 4+ year of successful software delivery experience. I am proficient in JavaScript, TypeScript, Vue.js, React and Node.js with strong focus on scalability, maintainability, and performance.
 
