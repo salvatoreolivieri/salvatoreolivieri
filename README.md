@@ -1,6 +1,8 @@
 <h3>👨🏻‍💻 About Me:</h3>
 
-Software Engineer with 4+ year of successful software delivery experience. I am proficient in JavaScript, TypeScript, Vue.js, React and Node.js with strong focus on scalability, maintainability, and performance.
+Software Engineer with 4+ year of experience delivering high-quality, production-ready software. I am proficient in JavaScript, TypeScript, Vue.js, React and Node.js with strong focus on scalability, maintainability, and performance. 
+
+🧳 My background includes building headless eCommerce solutions for high-end fashion and luxury brands, as well as contributing to complex, global fintech platforms. I bring a product-oriented mindset and a commitment to clean, efficient code that drives real business value.
 
 🛠️ My proudest achievement is that I have built a headless ecommerce platform using Vue and Node.js that processes thousands orders a day from millions users worldwide. My specific focus was on the frontend architecture and the web analytics systems (user tracking, real time marketing).
 
